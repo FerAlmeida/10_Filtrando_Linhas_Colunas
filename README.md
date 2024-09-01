@@ -1,2 +1,2 @@
-# 10_Filtrando_Linhas_Colunas
- Buscando linhas e colunas no Data Frame com PANDAS
+# 6_Carregando_Dados_parte2
+ Carregando dados com Pandas
